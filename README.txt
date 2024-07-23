@@ -1,0 +1,1 @@
+In diesem Repository ist ein einfaches pygame Spiel, welches in einem Jupyter-Notebook geöffnet werden kann.
